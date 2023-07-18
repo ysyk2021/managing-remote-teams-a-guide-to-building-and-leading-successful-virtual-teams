@@ -18,5 +18,4 @@ Welcome to the world of remote teams! As technology continues to advance, more a
 
 In the next chapter, we will explore effective communication strategies for remote teams. Let's get started!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
