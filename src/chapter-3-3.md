@@ -3,7 +3,7 @@ Tailoring Your Approach to Different Types of Remote Teams and Projects
 
 In this chapter, we will explore the importance of developing a remote team management strategy that is tailored to different types of remote teams and projects. Managing remote teams requires a unique approach due to the absence of face-to-face interactions and physical proximity. By understanding the specific dynamics of each team and project, you can effectively lead your remote team towards success.
 
-1. Understanding Different Types of Remote Teams
+1\. Understanding Different Types of Remote Teams
 ------------------------------------------------
 
 ### 1.1 Functional Remote Teams
@@ -18,7 +18,7 @@ Cross-functional remote teams consist of individuals from various departments or
 
 Virtual teams are entirely remote, with team members located in different time zones and potentially across international borders. These teams face unique challenges related to cultural differences, language barriers, and varying work practices. To successfully manage virtual teams, it is essential to foster a sense of inclusion, promote cultural sensitivity, and provide tools and resources for effective virtual collaboration.
 
-2. Tailoring Your Approach for Different Projects
+2\. Tailoring Your Approach for Different Projects
 -------------------------------------------------
 
 ### 2.1 Short-term Projects
@@ -33,7 +33,7 @@ Long-term projects demand sustained commitment and coordination. Remote team man
 
 Agile projects are characterized by their iterative and flexible nature. To manage remote agile teams effectively, remote team managers should promote transparency, facilitate frequent communication and collaboration, and empower team members to make decisions within the defined scope. Embracing agile methodologies and fostering a culture of adaptability can enhance overall team performance.
 
-3. Key Considerations for Remote Team Management Strategy
+3\. Key Considerations for Remote Team Management Strategy
 ---------------------------------------------------------
 
 ### 3.1 Communication and Technology
