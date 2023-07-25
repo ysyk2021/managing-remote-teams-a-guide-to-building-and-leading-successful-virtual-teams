@@ -3,7 +3,7 @@ Chapter 3: Developing a Remote Team Management Strategy
 
 In this chapter, we will explore the essential components of developing an effective remote team management strategy. By assessing your needs and goals, creating a plan based on shared values, and tailoring your approach to different types of remote teams and projects, you can build and lead successful virtual teams.
 
-Sub-chapter 1: Assessing Your Own Remote Team Management Needs and Goals
+Assessing Your Own Remote Team Management Needs and Goals
 ------------------------------------------------------------------------
 
 Before embarking on managing remote teams, it is crucial to assess your own needs and goals as a manager. This sub-chapter will guide you through the following steps:
@@ -14,7 +14,7 @@ Before embarking on managing remote teams, it is crucial to assess your own need
 
 3. **Assess your skills**: Evaluate your current skill set and identify areas where you may need improvement. Effective remote team management requires skills such as clear communication, active listening, and the ability to provide feedback virtually.
 
-Sub-chapter 2: Creating a Plan for Managing Remote Teams Based on Shared Values and Priorities
+Creating a Plan for Managing Remote Teams Based on Shared Values and Priorities
 ----------------------------------------------------------------------------------------------
 
 To successfully manage remote teams, it is important to establish a plan that aligns with shared values and priorities. This sub-chapter will cover the following topics:
@@ -25,7 +25,7 @@ To successfully manage remote teams, it is important to establish a plan that al
 
 3. **Establish effective communication channels**: Select appropriate communication tools and establish guidelines for their use. Foster open, regular, and transparent communication to maintain a strong connection with your remote team members.
 
-Sub-chapter 3: Tailoring Your Approach to Different Types of Remote Teams and Projects
+Tailoring Your Approach to Different Types of Remote Teams and Projects
 --------------------------------------------------------------------------------------
 
 No two remote teams or projects are the same. This sub-chapter will provide insights on how to tailor your management approach based on the specific characteristics and requirements of different types of remote teams and projects:
