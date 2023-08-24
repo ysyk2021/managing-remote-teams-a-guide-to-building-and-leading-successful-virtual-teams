@@ -1,5 +1,3 @@
-Chapter 5: Managing Performance and Accountability
-==================================================
 
 Managing performance and accountability is critical to building and leading successful virtual teams. In this chapter, we'll explore strategies for setting clear expectations and goals, developing performance metrics and benchmarks, and holding remote team members accountable for their work and results.
 

@@ -1,5 +1,3 @@
-Encouraging Trust and Mutual Support Among Remote Team Members
-========================================================================================================================
 
 Building trust and mutual support among remote team members is essential to the success of virtual teams. In this chapter, we'll explore strategies for encouraging trust and mutual support within remote teams.
 

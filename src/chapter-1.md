@@ -1,5 +1,3 @@
-Chapter 1: Introduction to Managing Remote Teams
-================================================
 
 Defining Remote Teams and their Importance in the Modern Workplace
 ------------------------------------------------------------------

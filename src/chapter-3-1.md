@@ -1,5 +1,3 @@
-Assessing Your Own Remote Team Management Needs and Goals
-==================================================================================================================
 
 Developing a remote team management strategy is essential to the success of virtual teams. In this chapter, we'll explore how to assess your own remote team management needs and goals.
 

@@ -1,5 +1,3 @@
-Creating a Plan for Managing Remote Teams Based on Shared Values and Priorities
-========================================================================================================================================
 
 Creating a plan for managing remote teams based on shared values and priorities is essential to the success of virtual teams. In this chapter, we'll explore how to develop a remote team management strategy based on shared values and priorities.
 

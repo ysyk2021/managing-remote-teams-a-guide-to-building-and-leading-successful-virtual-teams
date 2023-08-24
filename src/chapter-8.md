@@ -1,5 +1,3 @@
-Chapter 8: Managing Conflict and Resolving Issues in Remote Teams
-=================================================================
 
 In this chapter, we will explore the challenges of managing conflict and resolving issues in remote teams. We will delve into identifying common sources of conflict, developing strategies for resolving conflicts and handling difficult conversations, as well as building resilience and managing stress in remote teams.
 

@@ -1,5 +1,3 @@
-Recognizing the Different Factors That Impact Remote Work and Team Dynamics
-===================================================================================================================================
 
 Remote work can have a unique impact on the psychology of individuals and teams. In this chapter, we'll explore the different factors that impact remote work and team dynamics.
 

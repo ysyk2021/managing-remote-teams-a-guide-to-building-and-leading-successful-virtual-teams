@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Psychology of Remote Work
-======================================================
 
 Understanding the psychology of remote work is critical to building and leading successful virtual teams. In this chapter, we'll explore strategies for recognizing the different factors that impact remote work and team dynamics, identifying common barriers to effective remote work, and understanding the role of communication and trust in remote teams.
 

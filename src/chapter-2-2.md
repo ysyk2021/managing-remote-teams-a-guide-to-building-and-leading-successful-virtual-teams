@@ -1,5 +1,3 @@
-Identifying Common Barriers to Effective Remote Work
-============================================================================================================
 
 Remote work can present unique challenges that can hinder productivity and success. In this chapter, we'll explore common barriers to effective remote work and strategies for overcoming them.
 
