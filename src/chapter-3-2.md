@@ -1,5 +1,4 @@
-Chapter: Creating a Plan for Managing Remote Teams Based on Shared Values and Priorities
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

@@ -1,5 +1,4 @@
-Chapter: Encouraging Trust and Mutual Support Among Remote Team Members
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

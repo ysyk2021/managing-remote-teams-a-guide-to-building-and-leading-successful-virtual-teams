@@ -1,5 +1,4 @@
-Chapter 6: Navigating Time Zone Differences and Cultural Diversity
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
